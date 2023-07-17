@@ -16,7 +16,7 @@ Rashwanth - Dark/Light mode
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Dark-light-mode/
+   (https://rashwanthashok.github.io/Dark-or-Light-mode/)
 ## Getting Started
 
 Customizable Dark/Light mode feature for your website. Adjust icons, colors, and positioning as desired. Easily add this feature to any website by following these steps:
