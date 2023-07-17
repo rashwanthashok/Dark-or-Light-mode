@@ -53,6 +53,9 @@ Customizable Dark/Light mode feature for your website. Adjust icons, colors, and
 
 5. Lightweight: Minimalistic code ensures fast loading and smooth functionality.
 
+## Deployment status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/09660c9e-3e3b-4f23-999f-76d65a428cab/deploy-status)](https://app.netlify.com/sites/jsprojects15-dark-light-mode/deploys)
 ## Contributing
 
 Contributions are always welcome!
